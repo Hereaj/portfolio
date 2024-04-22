@@ -306,6 +306,12 @@ main {
   min-width: 259px;
 }
 
+a {
+  text-decoration: none;
+  color: var(--orange-yellow-crayola);
+  display: inline;
+}
+
 
 
 
