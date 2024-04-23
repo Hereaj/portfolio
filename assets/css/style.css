@@ -512,6 +512,11 @@ a {
 
 .about-text p { margin-bottom: 15px; }
 
+.about-text a {     
+  color: var(--orange-yellow-crayola);
+  display: inline;
+}
+
 
 
 /**
