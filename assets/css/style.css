@@ -125,11 +125,7 @@
   box-sizing: border-box;
 }
 
-a {
-  text-decoration: none;
-  color: var(--orange-yellow-crayola);
-  display: inline;
-}
+a { text-decoration: none; }
 
 li { list-style: none; }
 
@@ -310,7 +306,11 @@ main {
   min-width: 259px;
 }
 
-
+a {
+  text-decoration: none;
+  color: var(--orange-yellow-crayola);
+  display: inline;
+}
 
 
 
